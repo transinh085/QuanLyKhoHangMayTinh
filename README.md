@@ -1,5 +1,5 @@
 # Quản lý kho hàng máy tính
-Đồ án môn Phương pháp lập trình hướng đối tượng
+Đồ án môn Phương pháp lập trình hướng đối tượng sử dụng Java Swing + MySQL
 
 ### Giao diện 
 ![Alt text](./img/login.png)
@@ -9,4 +9,3 @@
 ![Alt text](./img/thongke.png)
 ![Alt text](./img/chitietphieu.png)
 ![Alt text](./img/themsanpham.png)
-![Alt text](./img/doithongtin.png)
