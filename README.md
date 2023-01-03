@@ -1,5 +1,5 @@
 # Quản lý kho hàng máy tính
-Đồ án môn Phương pháp lập trình hướng đối tượng sử dụng Java Swing + MySQL
+Đồ án môn Lập trình hướng đối tượng sử dụng Java Swing + MySQL
 
 ### Giao diện 
 ![Alt text](./img/login.png)
