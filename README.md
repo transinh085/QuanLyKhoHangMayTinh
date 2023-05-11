@@ -2,7 +2,7 @@
 Đồ án môn Lập trình hướng đối tượng sử dụng Java Swing + MySQL
 
 ### Giao diện 
-![Alt text](./img/login.png)
+![Giao diện đăng nhập](./img/login.png)
 ![Alt text](./img/sanpham.png)
 ![Alt text](./img/nhacungcap.png)
 ![Alt text](./img/nhaphang.png)
